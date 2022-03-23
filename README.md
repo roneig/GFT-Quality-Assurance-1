@@ -22,3 +22,7 @@ Atividades desenvolvidas  (Em construção)
     - [Xadrez](/MaisDesafios-GFT-QA-%231)
 
 3. Desafios Intermediários GFT QA #1: 
+
+    - [Ordenando Números Pares e Ímpares](/DesafiosIntermediários-GFT-QA-%231)
+    - [Kage Bunshin no Jutsu](/DesafiosIntermediários-GFT-QA-%231)
+    - [Combinação de strings](/DesafiosIntermediários-GFT-QA-%231)
